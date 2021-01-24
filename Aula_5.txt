@@ -1,0 +1,293 @@
+    1  ls
+    2  # apt-get install git
+    3  apt
+    4  install
+    5  apt -get install
+    6  apt -get
+    7  apt get install git
+    8  # apt -get install git
+    9  apt -get
+   10  apt -install
+   11  apt
+   12  get install git
+   13  install git
+   14  instal -git
+   15  install -git
+   16  get install
+   17  -get
+   18  sudo apt-get update
+   19  sudo apt-get install git-all
+   20  git version
+   21  ls
+   22  cd..
+   23  cd ..
+   24  ls
+   25  cd ..
+   26  ls
+   27  bin
+   28  cd bin
+   29  ls
+   30  cd ..
+   31  cd home
+   32  ls
+   33  cd tdiversidade/
+   34  ls
+   35  cd Imagens/
+   36  LS
+   37  ls
+   38  mkdir j
+   39  ls
+   40  cd ..
+   41  ls
+   42  cd Imagens/
+   43  ls
+   44  rm j
+   45  rv j
+   46  ls
+   47  cd .
+   48  cd ..
+   49  quit
+   50  git config --global user.name 'julián Boetto'
+   51  git config --global user.email 'malostratoscba@gmail.com'
+   52  git config user.name
+   53  cd Desktop/
+   54  ls
+   55  'Área de Trabalho'/
+   56  cd 'Área de Trabalho'/
+   57  mkdir Curso_Git/
+   58  ls]
+   59  ls
+   60  rm -r Toti/
+   61  ls
+   62  cd Curso_Git/
+   63  git init
+   64  ls
+   65  Git init
+   66  git init
+   67  git status
+   68  echo '#Aprendendo usar o Git' >readme.md
+   69  ls
+   70  git status
+   71  git add readme.md 
+   72  git status
+   73  git commit -m 'Commit inicial'
+   74  git status
+   75  ls
+   76  echo '##Aula 1' >> readme.md 
+   77  git status
+   78  echo 'Julián Boetto' > participantes.txt
+   79  ls
+   80  git status
+   81  git add .
+   82  git status
+   83  git restore --staged participantes.txt
+   84  git status
+   85  git help
+   86  git restore --staged participantes.txt
+   87  git checkout --staged participantes.txt
+   88  git status
+   89  git checkout -- participantes.txt
+   90  git status
+   91  git restore
+   92  git checkout
+   93  A
+   94  git checkout participantes.txt
+   95  git status
+   96  git checkout -- participantes.txt
+   97  git statu
+   98  git status
+   99  git checkout - participantes.txt
+  100  git help
+  101  git help commit
+  102  git help checkou
+  103  git help checkout
+  104  git status4git status
+  105  git status
+  106  ls
+  107  'Área de Trabalho'/
+  108  cd 'Área de Trabalho'/
+  109  mkdir Toti
+  110  ls
+  111  cd Toti/
+  112  clear
+  113  cd ..
+  114  git init
+  115  ls
+  116  git status
+  117  ls
+  118  cd 'Á
+  119  cd 'Área de Trabalho'/
+  120  LS
+  121  ls
+  122  cd 'Área de Trabalho'/
+  123  LS
+  124  ls
+  125  cd Curso_Git/
+  126  ls
+  127  git config user.name
+  128  git init
+  129  git status
+  130  echo '##Aula 1' >> readme.md 
+  131  git status
+  132  echo 'Julian Boetto' > participantes.txt
+  133  ls
+  134  git status
+  135  git add .
+  136  git status
+  137  git checkout -- .
+  138  git status
+  139  git restore --staged .
+  140  git checkout -- participantes.txt
+  141  git status
+  142  git HEAD participantes.txt
+  143  git reset HEAD participantes.txt
+  144  git status
+  145  sudo apt-get update
+  146  git version
+  147  clear
+  148  git status
+  149  git add participantes.txt 
+  150  git status
+  151  git reset HEAD .
+  152  git status
+  153  git commit -am 'Alteração no readme'
+  154  git status
+  155  git add participantes.txt 
+  156  git status
+  157  git commit -m 'Adicionado participantes.txt'
+  158  history  > Aula_3.txt
+  159  git status
+  160  git add .
+  161  git commit -m 'Comandos da aula 3'
+  162  git status
+  163  ls
+  164  cd Downloads/
+  165  ls
+  166  sudo apt install
+  167  clear
+  168  git log
+  169  git config 'Julian Boetto'
+  170  git config
+  171  git config user.name 'Julian Boetto'
+  172  git status
+  173  git log
+  174  cd 'Área de Trabalho'/
+  175  LS
+  176  ls
+  177  cd Curso_Git/
+  178  ls
+  179  git log
+  180  git log -2
+  181  git log --pretty=oneline -2
+  182  git log -p -2
+  183  git init
+  184  git config user.name 'Julian Boetto'
+  185  git status
+  186  cd 'Área de Trabalho'/
+  187  ls
+  188  cd ..
+  189  ls
+  190  Downloads/
+  191  cd Downloads/
+  192  ls
+  193  apt install
+  194  apt install ./node-v14.15.4-linux-x64/
+  195  git status
+  196  sudo apt install ./node-v14.15.4-linux-x64/
+  197  ls
+  198  sudo apt install ./node-v14.15.4-linux-arm64/
+  199  clear
+  200  cd ..
+  201  ls
+  202  git status
+  203  git log
+  204  clear
+  205  git branch
+  206  git checkout -b feature
+  207  git branch
+  208  git status
+  209  clear
+  210  git config user.name 'Julian Boetto'
+  211  git status
+  212  clear
+  213  ls
+  214  cd 'Área de Trabalho'/
+  215  ls
+  216  cd Curso_Git/
+  217  git config user.name 'Julian Boetto'
+  218  git status
+  219  git branch
+  220  git checkout -b feature
+  221  git branch
+  222  touch Nova_feature
+  223  git status
+  224  git add Nova_feature 
+  225  git commit -m 'Adicionando nova feature'
+  226  git log
+  227  git checkout master
+  228  git status
+  229  git log
+  230  touch Continuando_master
+  231  git add Continuando_master 
+  232  git commit -m 'Adicionando continuacao na master'
+  233  git log
+  234  git checkout feature
+  235  git log
+  236  git checkout -b feature2 master
+  237  git log
+  238  git chekout -d feature2
+  239  git checkout -d feature2
+  240  git status
+  241  git log
+  242  git checkout-d feature2
+  243  git log
+  244  git status
+  245  git branch -d feature2
+  246  git checkout master
+  247  git branch -d feature2
+  248  git log
+  249  git checkout feature2
+  250  cd 'Área de Trabalho'/
+  251  cd Curso_Git/
+  252  git config user.name 'Julian Boetto'
+  253  git status
+  254  git clear
+  255  cear
+  256  clear
+  257  git checkout feature
+  258  git log --pretty=oneline --graph
+  259  git merge master
+  260  cd 'Área de Trabalho'/
+  261  cd Curso_Git/
+  262  git config user.name 'Julian Boetto'
+  263  git status
+  264  git config user.name 'Julian Boetto'
+  265  git status
+  266  git init
+  267  clear
+  268  git config user.name 'Julian Boetto'
+  269  git status
+  270  clear
+  271  ls
+  272  git log
+  273  git status
+  274  git config user.name 'Julian Boetto'
+  275  git status
+  276  git config user.name
+  277  git status
+  278  git log --pretty=oneline --graph
+  279  git merge master
+  280  git status
+  281  git commit
+  282  cd 'Área de Trabalho'/
+  283  cd Curso_Git/
+  284  git config user.name
+  285  git status
+  286  git commit
+  287  cd 'Área de Trabalho'/
+  288  cd Curso_Git/
+  289  git status
+  290  git config user.name
+  291  git reset --hard HEAD~
+  292  git rebase master
+  293  history > Aula_5.txt
