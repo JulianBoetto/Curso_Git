@@ -4,9 +4,13 @@
 ## Aula 1
 O que foi o que aprendi aqui?
 
+Explicamos o que é Git e GitHub
+
 
 ## Aula 2
 O que foi o que aprendi aqui?
+
+Instalamos Git e vimos alguns comandos
 
 
 ## Aula 3
